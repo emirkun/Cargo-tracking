@@ -1,0 +1,25 @@
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\bin\Debug\Kargo Takip.exe
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\bin\Debug\Kargo Takip.pdb
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo_Takip.Form1.resources
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo_Takip.Properties.Resources.resources
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.csproj.GenerateResource.Cache
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.exe
+c:\users\sadec\documents\visual studio 2010\Projects\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.pdb
+D:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo_Takip.Form1.resources
+D:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo_Takip.Properties.Resources.resources
+D:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.csproj.GenerateResource.cache
+D:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.exe
+D:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.pdb
+D:\Kargo Takip\Kargo Takip\bin\Debug\Kargo Takip.exe
+D:\Kargo Takip\Kargo Takip\bin\Debug\Kargo Takip.pdb
+D:\Kargo Takip\Kargo Takip\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.exe
+E:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.pdb
+E:\Kargo Takip\Kargo Takip\bin\Debug\Data.accdb
+E:\Kargo Takip\Kargo Takip\bin\Debug\Daya.accdb
+E:\Kargo Takip\Kargo Takip\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo_Takip.Form1.resources
+E:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo_Takip.Properties.Resources.resources
+E:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.csproj.GenerateResource.Cache
+D:\Kargo Takip\Kargo Takip\obj\x86\Debug\Kargo Takip.csprojResolveAssemblyReference.cache
